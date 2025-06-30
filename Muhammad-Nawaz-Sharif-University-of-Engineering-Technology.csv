@@ -1,0 +1,325 @@
+"Full Name","Father Name",CNIC,"Enrollment No","Degree Title",Department,Campus,"Year of Student","HSC Percentage",CGPA,"Apply Date","Merit Status","Out of Allocated Laptop"
+"Muhammad Maaz","Sajjad Hussain",3630209994027,2024-EE-39,"BS (Hons)","Electrical Engineering","Main campus",1,63.18,3.322,"2025-05-13 09:41:42",Selected,"1 out of 3"
+"Muhammad Imtiaz","Hafiz Allah Dewaya",3630394092337,2022-EE-03,"BS (Hons)","Electrical Engineering","Main campus",1,72.78,3.316,"2025-04-29 09:14:30",Selected,"2 out of 3"
+"Muhammad Hamza Sindhu","Manzoor Hussain ",3610174083139,2024-EE-02,"BS (Hons)","Electrical Engineering","Main campus",1,67.66,3.31,"2025-05-23 23:00:01",Selected,"3 out of 3"
+"Hafiz Muhammad Abdullah Noor","Israr Ahmed",6110180765589,2024-EE-20,"BS (Hons)","Electrical Engineering","Main campus",1,76.42,3.11,"2025-05-15 10:42:57",Waiting
+"Hafiz Muhammad Hassaan ","Ghazanfar Abbas ",3630392696215,"2024-EE-15 ","BS (Hons)","Electrical Engineering","Main campus",1,83.64,2.98,"2025-05-01 19:36:16",Waiting
+"Muhammad Umer hayat ","Arif iftikhar",3630207762451,"2024-BT elect 02","BS (Hons)","Electrical Engineering","Main campus",1,52.7,2.975,"2025-05-20 17:56:02",Waiting
+"MUHAMMAD FAROOQ","MALIK ABDUL AZIZ",3620363260953,2024-EE-33,"BS (Hons)","Electrical Engineering","Main campus",1,72,2.9,"2025-05-03 19:01:58",Waiting
+"Ahmad hassan","Muhammad Shakeel Qureshi",3630274681849,2024-EE-09,"BS (Hons)","Electrical Engineering","Main campus",1,77.61,2.63,"2025-05-15 11:01:30","Not Selected",0
+"Jaffar Ali","Manzoor Ahmed ",3630210722749,2023-EE-34,"BS (Hons)","Electrical Engineering","Main campus",2,89.1,3.88,"2025-05-03 10:05:23",Selected,"1 out of 2"
+"Muhammad Tuaha Ali ","Mazhar Hussain Bhutta ",3630268413381,2023-EE-15,"BS (Hons)","Electrical Engineering","Main campus",2,68.72,3.61,"2025-05-03 13:54:04",Selected,"2 out of 2"
+"Hussnain Saleem ","Muhammad Saleem",3630201265149,2023-EE-33,"BS (Hons)","Electrical Engineering","Main campus",2,66.72,3.58,"2025-05-03 14:58:58",Waiting
+"huzaifa Abdul Rehman","huzaifa Abdul Rehman",3630207294821,2k23_EE_16,"BS (Hons)","Electrical Engineering","Main campus",2,78.67,3.125,"2025-05-03 11:21:41",Waiting
+"Muhammad Farman","Irshad Ali",3630313750737,2023-EE-36,"BS (Hons)","Electrical Engineering","Main campus",2,60.05,3.106,"2025-05-05 10:32:28",Waiting
+"Muhammad Qasim","Hassan Bakhsh Bhatti ",3630274160961,2023-EE-22,"BS (Hons)","Electrical Engineering","Main campus",2,78.25,3.087,"2025-05-03 10:30:58",Waiting
+"Muhammad Zunair Ashraf","Muhammad Ashraf",3630221890765,2023-EE-18,"BS (Hons)","Electrical Engineering","Main campus",2,74.28,2.99,"2025-05-07 09:46:19",Waiting
+"Muhammad Hanzla Azhar","Muhammad Azhar Iqbal",3230310301609,2023-EE-23,"BS (Hons)","Electrical Engineering","Main campus",2,66.66,2.96,"2025-05-31 22:00:25",Waiting
+"Raza Abbas","Fazal Abbas",3630244768453,2023-EE-12,"BS (Hons)","Electrical Engineering","Main campus",2,74.11,2.91,"2025-05-12 10:27:10",Waiting
+"Matloob wali ","Wali Muhammad ",3630262886699,2023-EE-08,"BS (Hons)","Electrical Engineering","Main campus",2,86.02,2.875,"2025-05-06 08:48:07",Waiting
+"Muhammad Javed ","Haq Nawaz",3630286782169,2023-EE-06,"BS (Hons)","Electrical Engineering","Main campus",2,80.04,2.78,"2025-05-05 11:13:04","Not Selected",0
+"Abdul Rafy","Muhammad Rafiq Khan",4220156540919,2023-EE-26,"BS (Hons)","Electrical Engineering","Main campus",2,76.03,2.775,"2025-05-05 10:21:01","Not Selected",0
+"Muhammad Saad Khan ","Muhammad Ilyas Khan ",3630301093045,2023-EE-32,"BS (Hons)","Electrical Engineering","Main campus",2,62.01,2.713,"2025-05-05 10:24:49","Not Selected",0
+"Muhammad Ahsan","Malik Allah Ditta",3630301317519,2023-EE-14,"BS (Hons)","Electrical Engineering","Main campus",2,69.46,2.55,"2025-05-05 15:32:30","Not Selected",0
+"Iqrash Subhani","Ateeque Subhani",3630215586495,2022-EE-22,"BS (Hons)","Electrical Engineering","Main campus",3,62.18,3.67,"2025-05-12 17:54:17",Selected,"1 out of 2"
+"Hafiz Zain ul Abideen","Khalid Mehmood",3630291998657,2022-EE-20,"BS (Hons)","Electrical Engineering","Main campus",3,68.81,3.64,"2025-05-20 13:02:28",Selected,"2 out of 2"
+"Abdul Moiz Bhatti","Muhammad Nadeem Bhatti",3630253306727,2022-EE-32,"BS (Hons)","Electrical Engineering","Main campus",3,79.9,3.517,"2025-05-08 02:46:25",Waiting
+"Muhammad Amir Shahzad","Muhammad Ashiq",3630330866641,2022-EE-04,"BS (Hons)","Electrical Engineering","Main campus",3,72.53,3.17,"2025-05-13 13:00:43",Waiting
+"Khair Ul Sadqeen","Abdul Wahab Bhatti",4220179053797,2022-EE-27,"BS (Hons)","Electrical Engineering","Main campus",3,84.09,3.01,"2025-05-06 09:45:28",Waiting
+"Muhammad Rizwan","Muhammad Ramzan",3630257816709,2022-EE-31,"BS (Hons)","Electrical Engineering","Main campus",3,72.31,3,"2025-05-12 09:54:07",Waiting
+"Wasif Nadeem","Abdul Jabbar",3630282806283,2022-EE-16,"BS (Hons)","Electrical Engineering","Main campus",3,74.59,2.97,"2025-05-02 20:49:21",Waiting
+"Faisal Inam","Inam ullah",3210204947103,2022-EE-14,"BS (Hons)","Electrical Engineering","Main campus",3,77.01,2.94,"2025-05-03 20:02:16",Waiting
+"Umer Rauf ","Abdul Rauf ",3650286849961,2022-EE-40,"BS (Hons)","Electrical Engineering","Main campus",3,61.54,2.74,"2025-05-04 16:15:23","Not Selected",0
+"Shayan Khan","Muhummad Tahir",3230451434089,2022-EE-08,"BS (Hons)","Electrical Engineering","Main campus",3,70.9,2.557,"2025-05-22 19:45:50","Not Selected",0
+"Hafiz Muhammad Abdul Rafay ","Muhammad Saleem Akhtar ",3630296751793,2022-EE-05,"BS (Hons)","Electrical Engineering","Main campus",3,72,2.495,"2025-05-02 21:37:28","Not Selected",0
+"mujahid sattar","mujahid sattar",6110198538773,2022-EE-33,"BS (Hons)","Electrical Engineering","Main campus",4,61.5,2.665,"2025-05-06 11:55:42","Not Selected",0
+"Sania Nawaz",AhmadNaWaz,3630347929832,2024-MS-EE-O3,"MS/ M.Phil","Electrical Engineering","Main campus",1,70.9,3.6,"2025-04-29 09:19:20",Selected,"1 out of 1"
+"Muhammad Ammad","Chan zeb",4240172834111,2024-MS-EE-02,"MS/ M.Phil","Electrical Engineering","Main campus",1,70,3.43,"2025-05-01 02:48:56",Waiting
+"Naeem Ullah Khalid","Saif ullah khalid ",3630242771811,2024-MS-EE-01,"MS/ M.Phil","Electrical Engineering","Main campus",1,73.09,3.2,"2025-05-04 18:50:17",Waiting
+Usama,"Muhammad Ishfaq Anjum",3610135638705,2023-BT-Elect-05,B.Tech,"Electrical Engineering","Main campus",2,58.45,3.77,"2025-05-17 17:10:55",Selected,"1 out of 1"
+"Muhammad Zubair Arshad","Arshad Ali Rashid",3630299177329,2023-BT-Elect-02,B.Tech,"Electrical Engineering","Main campus",2,62,3.61,"2025-05-17 23:49:07",Waiting
+"Zulqarnan Anjum","Ghulam Sadar Ud Din Anjum",3630210275313,2023-BT-ELECT-01,B.Tech,"Electrical Engineering","Main campus",2,66.95,3.45,"2025-05-12 17:36:29",Waiting
+"Muhammad Umair","Muhammad Shoaib",3630114656923,2023-BT-ELECT-08,B.Tech,"Electrical Engineering","Main campus",2,51.72,3.39,"2025-05-12 17:21:38",Waiting
+"Muhammad Talha","Haider Ali ",3630239185097,2023-EE-20,B.Tech,"Electrical Engineering","Main campus",2,71.84,3.3,"2025-05-03 15:06:14",Waiting
+"Muhammad Fasih ","Munir Ahmad ",3630286526223,2023-EE-25,B.Tech,"Electrical Engineering","Main campus",2,92.9,3.29,"2025-05-01 16:54:15",Waiting
+"Muhammad Moazam","Abdul Sattar",3410174650571,2023-BT-ELECT-06,B.Tech,"Electrical Engineering","Main campus",2,79.04,3.21,"2025-05-04 06:43:22",Waiting
+"Muhammad Emaan Sarwar ","Muhammad Sarwar ",3610286431391,2023-EE-19,B.Tech,"Electrical Engineering","Main campus",2,64.81,3.06,"2025-05-01 16:38:00",Waiting
+"Hassan Bin Anwaar","Anwaar Ellahi",3630204441287,2023-EE-11,B.Tech,"Electrical Engineering","Main campus",2,61.81,3.04,"2025-05-01 18:35:43",Waiting
+"Syed Usman Faheem Ahmed ","Syed Nasir Ali Shah ",3630214265067,2024-Phd-Ele-03,"PhD (5 years)","Electrical Engineering","Main campus",1,66.5,3.33,"2025-04-29 17:37:35",Selected,"1 out of 1"
+"Faheem Ahmad","Haq Nawaz",3630389991131,2024-PhD-EE-05,"PhD (5 years)","Electrical Engineering","Main campus",1,65,3.33,"2025-05-10 23:30:10",Waiting
+"Muhammad Usman","Muhammad Yaqoob",3610255225011,2024-FE-02,"BS (Hons)","Chemical Engineering","Main campus",1,62.66,3.53,"2025-05-19 10:04:55",Selected,"1 out of 2"
+"Muhammad Saqlain Waseem ","Waseem Abbas ",3530243218997,2024-CH-07,"BS (Hons)","Chemical Engineering","Main campus",1,69.83,3.4,"2025-05-16 15:58:28",Selected,"2 out of 2"
+"Hafiz Muhammad Wakeel","Muhammad Ashraf",3520296661975,2024-CH-25,"BS (Hons)","Chemical Engineering","Main campus",1,61,3.04,"2025-05-16 17:23:19",Waiting
+"Muhammad Ahsan Mushtaq","Nazar Hussain Tahir",3630276903379,2024-CH-39,"BS (Hons)","Chemical Engineering","Main campus",1,61.58,2.49,"2025-05-07 13:04:58","Not Selected",0
+"SHAMAAS AHMAD ","MUHAMMAD ILYAS ",3630235227739,2023-CH-34,"BS (Hons)","Chemical Engineering","Main campus",2,83.54,3.86,"2025-05-05 13:00:21",Selected,"1 out of 2"
+"Ahmad Iqbal ","Muhammad Iqbal ",3630245317469,2023-CH-17,"BS (Hons)","Chemical Engineering","Main campus",2,88.62,3.58,"2025-05-06 09:32:06",Selected,"2 out of 2"
+"Muhammad Mehboob","Muhammad Ashiq",3630240931167,2023-CH-18,"BS (Hons)","Chemical Engineering","Main campus",2,89.38,3.55,"2025-05-06 09:15:09",Waiting
+"Muhammad Ikram ","Muhammad Ramzan ",3830392106363,2023-CH-37,"BS (Hons)","Chemical Engineering","Main campus",2,87.36,3.48,"2025-04-30 09:22:27",Waiting
+"MUHAMMAD AKBAR","GHULAM MUSTAFA ",3630288474697,2023-CH-02,"BS (Hons)","Chemical Engineering","Main campus",2,79.85,3.39,"2025-05-15 08:26:03",Waiting
+"Muhammad Irfan ","Muhammad Shaban",3630232168075,2023-CH-32,"BS (Hons)","Chemical Engineering","Main campus",2,64.45,3.23,"2025-05-06 12:51:46",Waiting
+"Ali Haider Ali ","Jahangir Akhtar ",3630296081323,2023-CH-31,"BS (Hons)","Chemical Engineering","Main campus",2,76.27,3.15,"2025-05-05 14:47:05",Waiting
+"Daniyal Liaqat","Liaqat Ali",3110271053477,2023-CH-11,"BS (Hons)","Chemical Engineering","Main campus",2,84.85,3.1,"2025-05-02 14:26:06",Waiting
+"Muhammad Kashif ","Allah Ditta ",3630298770213,2023-CH-33,"BS (Hons)","Chemical Engineering","Main campus",2,58,3.1,"2025-05-08 10:09:43",Waiting
+"Muhammad Yousef ","Hazoor Bakhsh ",3230407386201,2022-CH-20,"BS (Hons)","Chemical Engineering","Main campus",3,91.18,3.73,"2025-05-05 10:47:50",Selected,"1 out of 2"
+"Saqlain Sajid","Sajid Hussain ",3530294202877,2022-CH-35,"BS (Hons)","Chemical Engineering","Main campus",3,78.45,3.63,"2025-05-04 13:35:49",Selected,"2 out of 2"
+"Zameer Hussain Shah ","Ahmad Hassan Shah ",3630380986591,2022-CH-18,"BS (Hons)","Chemical Engineering","Main campus",3,80,3.48,"2025-05-05 10:45:47",Waiting
+"Nafees Ur Rehman ","Raza Muhammad Qaiser",3630371184059,2022-CH-34,"BS (Hons)","Chemical Engineering","Main campus",3,75.72,3.31,"2025-05-05 12:16:20",Waiting
+"Asad Irfan","Muhammad Irfan",3630243794835,2022-CH-08,"BS (Hons)","Chemical Engineering","Main campus",3,77.63,3.28,"2025-05-05 11:01:50",Waiting
+"Muhammad Zeeshan Iqbal","Muhammad Iqbal",3630465734735,2022-CH-05,"BS (Hons)","Chemical Engineering","Main campus",3,79.5,3.2,"2025-05-05 10:47:28",Waiting
+"Hammad Ahmad ","Muhammad Afzal ",3630288460419,2022-CH-36,"BS (Hons)","Chemical Engineering","Main campus",3,77,3.15,"2025-06-01 13:06:37",Waiting
+"Muhammad Moosa","Ahmad Nawaz ",3630271098387,2022-CH-28,"BS (Hons)","Chemical Engineering","Main campus",3,71,2.86,"2025-06-01 20:31:54",Waiting
+"Muhammad Naeem","Arshad Ali ",3620242579799,2022-CH-19,"BS (Hons)","Chemical Engineering","Main campus",3,85,2.85,"2025-05-29 14:40:16",Waiting
+"Muhammmad Adnan Mustafa","Ghulam Mustafa",3630441161541,2022-CH-39,"BS (Hons)","Chemical Engineering","Main campus",3,83.36,2.83,"2025-06-01 11:46:23",Waiting
+"Muhammad Abdul Rauf","Muhammad Akram",3130396627123,2024-MS-CHEM-01,"MS/ M.Phil","Chemical Engineering","Main campus",1,78.3,3.82,"2025-05-16 20:13:26",Selected,"1 out of 1"
+"Farrukh Iqbal","Muhammad Iqbal",5630275331445,2024-MS-CHEM-02,"MS/ M.Phil","Chemical Engineering","Main campus",1,71.18,3.77,"2025-05-13 20:42:53",Waiting
+"Muhammad Aashan Jabbar","Chaudhary Abdul Jabbar",3610449081893,2024-MS-CHEM-04,"MS/ M.Phil","Chemical Engineering","Main campus",1,70,3.7,"2025-05-06 12:08:19",Waiting
+"Muhammad Talha Saeed","Muhammad Saeed",3610160837059,2024-MS-CHEM-03,"MS/ M.Phil","Chemical Engineering","Main campus",1,78.4,3.67,"2025-05-14 11:40:55",Waiting
+"Mujtaba Ashraf","Mustafa Ashraf",3630289595067,2022(F)-PhD-Chem-02,"PhD (5 years)","Chemical Engineering","Main campus",3,61.27,3.38,"2025-05-13 15:42:21",Waiting
+"Muhammad Zain Kamal ","Muhammad Waheed",3630214266073,2024-BT-MECH-03,B.Tech,"Mechanical Engineering Technology","Main campus",1,65.08,3.738,"2025-05-05 08:30:25",Selected,"1 out of 1"
+"Muhammad Ali Hasnain ","Muhammad Saeed",3630245204961,2024-BT-MECH-06,B.Tech,"Mechanical Engineering Technology","Main campus",1,61.58,3.66,"2025-05-08 13:27:25",Waiting
+"Muhammad Adnan ","Ghulam Sarwar ",3630216072671,2024-BT-MECH-05,B.Tech,"Mechanical Engineering Technology","Main campus",1,53.09,3.61,"2025-05-13 10:16:59",Waiting
+"Jam Muhammad Zeeshan Iqbal","Jam Muhammad Irfan Iqbal ",3630231504257,2024-BT-MECH-10,B.Tech,"Mechanical Engineering Technology","Main campus",1,54.66,3.6,"2025-05-04 08:46:46",Waiting
+"Saim Raza","Ijaz Hussain ",3320255315113,2024-BT-MECH-14,B.Tech,"Mechanical Engineering Technology","Main campus",1,56.66,3.294,"2025-05-31 09:04:07",Waiting
+"Muhammad Shafique","Muhammad Aslam ",3650267559875,2024-BT-MECH-04,B.Tech,"Mechanical Engineering Technology","Main campus",1,70.58,2.994,"2025-05-13 15:22:31",Waiting
+"Rizwan Azeem","Javed Iqbal",3610431135009,2024-BT-MECH-12,B.Tech,"Mechanical Engineering Technology","Main campus",1,71.04,2.8,"2025-05-12 08:11:23",Waiting
+"Muhammad Burhan","Muhammad Ramzan",3630317089253,2023-BT-MECH-07,B.Tech,"Mechanical Engineering Technology","Main campus",2,80.72,3.93,"2025-04-29 14:54:47",Selected,"1 out of 1"
+"SHAHROZ NAWAZ","HAQ NAWAZ",3210308086577,2023-BT-MECH-02,B.Tech,"Mechanical Engineering Technology","Main campus",2,84.34,2.91,"2025-06-01 16:36:49",Waiting
+"Naveed Ahmad","Anwar ul haq ",3620175901087,BT-MECH-04,B.Tech,"Mechanical Engineering Technology","Main campus",2,57.36,2.878,"2025-04-29 14:59:55",Waiting
+"Fahim Sharif ","Muhammad Sharif",3330382293865,2023-BT-MECH-14,B.Tech,"Mechanical Engineering Technology","Main campus",2,52.18,2.871,"2025-05-06 14:37:05",Waiting
+"Usman Ali","Javid Iqbal ",3220373297785,2023-BT-MECH-17,B.Tech,"Mechanical Engineering Technology","Main campus",2,54.09,2.48,"2025-04-29 15:57:16","Not Selected",0
+Salmoon,"Barnabas Masih",3610343724787,2022-BT-MECH-04,B.Tech,"Mechanical Engineering Technology","Main campus",3,53.9,3.046,"2025-05-04 23:17:19",Waiting
+"Muhammad Taha","Shahid Ali ",3630223139105,2022-BT-MECH-08,B.Tech,"Mechanical Engineering Technology","Main campus",3,81.36,2.89,"2025-05-05 11:46:17",Waiting
+"Muhammad Ashar","Muhammad Bilal ",3630223736761,2022-BT-MECH-03,B.Tech,"Mechanical Engineering Technology","Main campus",3,78.95,2.882,"2025-05-05 11:44:12",Waiting
+"DANIAL ZAHID","ZAHID HUSSAIN",3630291368913,2024-BT-Civil-04,B.Tech,"Civil Engineering Technology","Main campus",1,54.18,4,"2025-05-16 12:46:47",Selected,"1 out of 1"
+"Ahmad Bilal ","Muhammad Bilal ",3630215241165,2024-BT-CIVIL-01,B.Tech,"Civil Engineering Technology","Main campus",1,54.54,3.96,"2025-05-26 11:57:56",Waiting
+"Muhammad Hasnain Meo","Muhammad Asghar ",3630378758803,2024-BT-CIVIL-06,B.Tech,"Civil Engineering Technology","Main campus",1,59.75,3.74,"2025-05-26 11:48:57",Waiting
+"Asim Naveed","Naveed Akhtar",3610266026579,2024-BT-Civil-02,B.Tech,"Civil Engineering Technology","Main campus",1,79.75,3.7,"2025-05-20 09:53:35",Waiting
+"Arslan Haider ","Ghulam Mustafa ",3610275305933,2024-BT-CIVIL-07,B.Tech,"Civil Engineering Technology","Main campus",1,54.09,3.37,"2025-05-26 12:06:11",Waiting
+"Muhammad Umair",Nadeemulhaq,3630288711771,2023-BT-Civil-14,B.Tech,"Civil Engineering Technology","Main campus",2,53.45,3.87,"2025-04-29 10:53:22",Selected,"1 out of 1"
+HUZAIFA,"FAZAL UR REHMAN",3630212642203,2023-BT-CIVIL-10,B.Tech,"Civil Engineering Technology","Main campus",2,71.82,3.68,"2025-04-29 15:14:08",Waiting
+"Aqib Gulzar",Gulzar,3630227108043,2023-BT-Civil-13,B.Tech,"Civil Engineering Technology","Main campus",2,55.9,3.4,"2025-05-05 13:04:28",Waiting
+"Rashid Gulzar ","Gulzar Ahmad ",3630364675015,03254353466,B.Tech,"Civil Engineering Technology","Main campus",2,74,3.385,"2025-05-05 12:06:55",Waiting
+"Asif Adeel ","Ashiq Hussain faizi ",3660254935415,2023-BT-civil-09,B.Tech,"Civil Engineering Technology","Main campus",2,74.74,3.35,"2025-05-05 11:29:18",Waiting
+"Muhammad Aamir","Saeed Ahmad",3230249659083,2023-BT-Civil-12,B.Tech,"Civil Engineering Technology","Main campus",2,68.9,3.18,"2025-05-13 10:59:01",Waiting
+"Shaf Saleem","M saleem akhter ",3630214360939,2023-BT-Civil-01,B.Tech,"Civil Engineering Technology","Main campus",2,51,3.072,"2025-05-25 13:08:39",Waiting
+"Ahmad Hasan","Muhammed Ameen",3630285535673,2023-BT-Civil-06,B.Tech,"Civil Engineering Technology","Main campus",2,75.02,2.92,"2025-05-16 10:52:19",Waiting
+"Muhammad Huzaifa","Nazeer Ahmad",3230326001141,2023-BT-Civil-19,B.Tech,"Civil Engineering Technology","Main campus",2,75.31,2.85,"2025-05-13 11:05:19",Waiting
+"Abdul Rehman","Waqar mustafa",3610289858499,"2023-BT- Civil -16",B.Tech,"Civil Engineering Technology","Main campus",2,69.74,2.5,"2025-05-19 12:18:44","Not Selected",0
+"Muhammad Jamshaid Khan","Haji Ahmad Shad",3120285818425,2023-BT-Civil-07,B.Tech,"Civil Engineering Technology","Main campus",2,63.61,2.305,"2025-05-20 20:22:25","Not Selected",0
+"Muhammad khaqan ","Ghulam yaseen ",3230236364911,2023-BBA-11,BBA,"Management Sciences","Main campus",2,67.7,3.77,"2025-05-01 08:00:19",Selected,"1 out of 1"
+"Saleha khan","Aamir ",3230476406482,2023-BBA-2,BBA,"Management Sciences","Main campus",2,68.72,3.6,"2025-05-02 08:42:34",Waiting
+"Muhammad Awais Subhani ","Jamil Ahmad Subhani",3630257371425,2023-BBA-21,BBA,"Management Sciences","Main campus",2,55,3.14,"2025-05-02 17:02:29",Waiting
+"Muhammad Jahanzaib ","Muhammad Irshad",3630270343987,2023-BBA-09,BBA,"Management Sciences","Main campus",2,63.82,3.13,"2025-05-01 16:00:05",Waiting
+"Zeeshan Azhar","Muhammad Azhar",3630245055805,2023-BBA-22,BBA,"Management Sciences","Main campus",2,49.3,3.07,"2025-05-02 15:14:26",Waiting
+"Abdul samad","Laeeq Ahmad",3630244013573,2023-BBA-23,BBA,"Management Sciences","Main campus",2,55.6,2.87,"2025-05-01 19:34:16",Waiting
+"Syed Muhammad Basit Ali Zaidi","Syed Muhammad Ali Zaidi",3630202532067,15-BBA-2023,BBA,"Management Sciences","Main campus",2,72,2.86,"2025-05-01 21:49:00",Waiting
+"Zahra Shahzad ","Shahzad Hussain ",3630247218990,2022-BBA-03,BBA,"Management Sciences","Main campus",3,58.18,3.25,"2025-04-29 06:46:55",Selected,"1 out of 1"
+"Abdul Hanan","Liaqat Ali",3210227395715,2022-BBA-07,BBA,"Management Sciences","Main campus",3,50.18,2.89,"2025-05-06 07:24:38",Waiting
+"Memoona Mukhtar","Muhammad Mukhtar",3610373262256,2024-CS-05,"BS (Hons)","Computer Science","Main campus",1,83.9,3.94,"2025-05-01 03:27:38",Selected,"1 out of 11"
+"Muqadas Riaz","Rao Muhammad Riaz Akhtar",3630230159322,2024-IT-24,"BS (Hons)","Computer Science","Main campus",1,82.75,3.91,"2025-05-06 17:11:06",Selected,"2 out of 11"
+"Fatima Asim","Asim Umer",3520295238328,2024-CS-06,"BS (Hons)","Computer Science","Main campus",1,53.34,3.85,"2025-05-31 17:13:26",Selected,"3 out of 11"
+"Taqi Hayder ","Waseem Haider",3630261657781,2024-CS-105,"BS (Hons)","Computer Science","Main campus",1,74.45,3.83,"2025-05-01 14:54:50",Selected,"4 out of 11"
+"Arham Murtaza","Abdul Razzaq",3230407615213,2024-IT-43,"BS (Hons)","Computer Science","Main campus",1,74.75,3.81,"2025-05-07 09:52:20",Selected,"5 out of 11"
+"Malik Muhammad Ahmad","Muhammad Anwar Hussain",3630218663181,2024-IT-79,"BS (Hons)","Computer Science","Main campus",1,60.66,3.8,"2025-05-05 18:55:59",Selected,"6 out of 11"
+"Memoona Munir","Munir Hussain",3630308554784,2024-CS-104,"BS (Hons)","Computer Science","Main campus",1,67.58,3.77,"2025-06-01 21:29:01",Selected,"7 out of 11"
+"Saqib Aslam","Muhammad Aslam",3630247057117,2024-IT-20,"BS (Hons)","Computer Science","Main campus",1,56.18,3.75,"2025-05-05 21:41:41",Selected,"8 out of 11"
+"Muhammad Rehan","Muhammad Yousaf",3630415807551,2024-IT-38,"BS (Hons)","Computer Science","Main campus",1,62.58,3.74,"2025-05-08 14:54:28",Selected,"9 out of 11"
+"Ahesha Kashif","Muhammad kashif",3630267997062,2024-IT-72,"BS (Hons)","Computer Science","Main campus",1,80.08,3.71,"2025-05-06 17:34:10",Selected,"10 out of 11"
+"Roshan Rawal","Naeem Ullah",3210206707811,2024-CS-132,"BS (Hons)","Computer Science","Main campus",1,72.25,3.7,"2025-05-19 22:49:43",Selected,"11 out of 11"
+"Adnan Ali","Muhammad Yaqoob",3610199707439,"2024 IT 69","BS (Hons)","Computer Science","Main campus",1,57,3.606,"2025-05-03 14:01:10",Waiting
+"Muhammad Muzamil Khan","Muhammad Ismail",3230459711017,2024-CS-179,"BS (Hons)","Computer Science","Main campus",1,64.83,3.6,"2025-05-12 16:09:07",Waiting
+"Farrukh Jameel","Muhammad Jameel",3630262955997,2024-IT-71,"BS (Hons)","Computer Science","Main campus",1,74.83,3.56,"2025-04-29 10:29:58",Waiting
+"Abdul Rehman ","Abdul Sattar",7150146149495,2024-CS-155,"BS (Hons)","Computer Science","Main campus",1,63.91,3.56,"2025-05-30 13:18:10",Waiting
+"Mati ur Rehman ","Atiq ur Rehman ",3630205139455,2024-CS-112,"BS (Hons)","Computer Science","Main campus",1,70,3.54,"2025-05-31 09:47:51",Waiting
+"Huzaifa Mushtaq","Mushtaq Ahmad",3630214762175,2024-IT-51,"BS (Hons)","Computer Science","Main campus",1,59.83,3.54,"2025-05-15 19:03:37",Waiting
+Mahnoor,"Muhammad Shakir",3620232584750,2024-IT-01,"BS (Hons)","Computer Science","Main campus",1,63.27,3.51,"2025-05-06 20:34:40",Waiting
+"Mehzar Ul Attas","Tariq Aziz Shah",3320346766017,2024-IT-31,"BS (Hons)","Computer Science","Main campus",1,63.82,3.5,"2025-04-29 10:02:42",Waiting
+"Humair Tariq ","Tariq Abbas",3740502089829,2024-CS-119,"BS (Hons)","Computer Science","Main campus",1,69.72,3.47,"2025-04-29 06:10:24",Waiting
+"Hafiz Akash Ahmad","Muhammad Ramzan",3630299179857,2024-CS-149,"BS (Hons)","Computer Science","Main campus",1,64.83,3.43,"2025-05-12 14:56:59",Waiting
+"Muhammad Naeem Khan","Muhammad Usman Khan",3630229617069,2024-CS-141,"BS (Hons)","Computer Science","Main campus",1,48.91,3.42,"2025-05-04 12:31:31",Waiting
+"FAIZAN SHAFIQ","SHAFIQ AHMAD",3630229118513,2024-IT-45,"BS (Hons)","Computer Science","Main campus",1,51.18,3.41,"2025-05-01 03:28:34",Waiting
+"Muhammad Haris","Idrees Ahmad",3630208597955,2024-CS-161,"BS (Hons)","Computer Science","Main campus",1,64.41,3.39,"2025-05-05 22:54:49",Waiting
+"Mubeen Hussain","Riaz Hussain",3630232335169,2024-IT-77,"BS (Hons)","Computer Science","Main campus",1,57.41,3.38,"2025-04-29 15:49:40",Waiting
+"Abdul Rehman Nizami ","Muhammad Bnaris",3320366138901,2024-CS-127,"BS (Hons)","Computer Science","Main campus",1,60.58,3.36,"2025-05-07 14:23:03",Waiting
+"Mursaleen Razzaq","Abdul Razzaq",3630409819241,2024-CS-101,"BS (Hons)","Computer Science","Main campus",1,65.08,3.35,"2025-05-13 15:38:10",Waiting
+"Asad Murtaza","Ghulam Murtaza",3630296273221,2024-CS-117,"BS (Hons)","Computer Science","Main campus",1,61.16,3.34,"2025-05-06 14:09:01",Waiting
+"Aliya Rafique","Rana Muhammad Rafique",3610125253040,2024-IT-04,"BS (Hons)","Computer Science","Main campus",1,53.16,3.31,"2025-05-08 17:03:00",Waiting
+"Aoun Muhammad","Kamran Iqbal",3230178230287,2024-IT-10,"BS (Hons)","Computer Science","Main campus",1,65,3.28,"2025-05-24 10:52:47",Waiting
+"Wajahat Ali","Sarafat Ali",3630282993019,2024-IT-56,"BS (Hons)","Computer Science","Main campus",1,62.75,3.28,"2025-05-13 17:48:25",Waiting
+"Muhammad Munawar Ali Rao","Muhammad Shafiq ur Rehaman Rao",3630293485955,2024-IT-07,"BS (Hons)","Computer Science","Main campus",1,61.91,3.24,"2025-05-13 17:36:05",Waiting
+"Shahmeer Ali","Muhammad Youns",3630204877125,2024-CS-139,"BS (Hons)","Computer Science","Main campus",1,60,3.24,"2025-05-12 15:00:00",Waiting
+"Suleman Ahmad","Ghulam Muhammad ",3630284165595,2024-CS-123,"BS (Hons)","Computer Science","Main campus",1,57.63,3.24,"2025-04-29 16:51:46",Waiting
+"Irfan Munir",Munir,3230291755083,2024-CS-158,"BS (Hons)","Computer Science","Main campus",1,67.75,3.238,"2025-05-12 17:09:58",Waiting
+"Nouman Qayyum","Muhammad Abdul Qayyum",3630279254047,2024-CS-151,"BS (Hons)","Computer Science","Main campus",1,57.66,3.2,"2025-04-29 17:01:26",Waiting
+"Ahmad Akram","Muhammad Akram",3220226416821,2024-CS-170,"BS (Hons)","Computer Science","Main campus",1,52.54,3.2,"2025-05-04 12:08:16",Waiting
+"Muhammad Umar Farooq","Muhammad Abbas Farooq",3630249494879,2024-CS-113,"BS (Hons)","Computer Science","Main campus",1,60.33,3.18,"2025-05-13 15:43:03",Waiting
+"Muhammad Haseeb khan","Muhammad Rafique Aman",3630288398961,2024-IT-47,"BS (Hons)","Computer Science","Main campus",1,56,3.17,"2025-04-29 10:14:39",Waiting
+"Asadullah ","Muhammad Saifullah ",3230377991369,2024-IT-08,"BS (Hons)","Computer Science","Main campus",1,73.08,3.15,"2025-05-06 12:35:53",Waiting
+"Muhammad Arsal Nasir","Choudhary Nasir Mahmood ",3230228674505,2024-CS-110,"BS (Hons)","Computer Science","Main campus",1,53.27,3.15,"2025-05-24 14:12:27",Waiting
+"Muhammad Bakhtawar Nazeer","Nazeer Ahmad",3630376121167,2024-IT-26,"BS (Hons)","Computer Science","Main campus",1,60.16,3.14,"2025-04-30 14:39:20",Waiting
+"Muhammad Shehryar","Aftab Hussain",3630233251087,2024-IT-41,"BS (Hons)","Computer Science","Main campus",1,65.16,3.12,"2025-04-29 09:47:33",Waiting
+"Mahad Subhan","Muhammad Siddique",3630377231823,2024-IT-40,"BS (Hons)","Computer Science","Main campus",1,60.16,3.11,"2025-04-29 15:05:09",Waiting
+"Rao Muhammad Fahad sharafat ","Sharafat Ali",3630484608419,2024-IT-25,"BS (Hons)","Computer Science","Main campus",1,59.83,3.11,"2025-05-11 12:12:38",Waiting
+"Ayesha Mazhar","Mazhar Iqbal",3330403637196,2024-CS-13,"BS (Hons)","Computer Science","Main campus",1,66,3.07,"2025-05-02 10:51:37",Waiting
+"Shams Ul Arfeen ","Abdul Haye",3610392001627,2024-CS-157,"BS (Hons)","Computer Science","Main campus",1,60.9,3.07,"2025-05-02 00:15:21",Waiting
+"Syed Zain Abbas Kazmi ","Syed Abid Raza Kazmi ",3630211501715,2024-CS-126,"BS (Hons)","Computer Science","Main campus",1,67,3.05,"2025-05-20 20:04:55",Waiting
+"Jamshaid Abid","Abid Hussain",3630109157445,2024-CS-135,"BS (Hons)","Computer Science","Main campus",1,59.5,3.03,"2025-05-31 21:36:10",Waiting
+"Muhammad Arslan","Muhammad Yousaf",3630260252185,2024-CS-118,"BS (Hons)","Computer Science","Main campus",1,51.9,3.03,"2025-05-23 20:34:13",Waiting
+"Awais Iqrar ","Iqrar Ali Khan Lodhi",3630246138543,2024-IT-17,"BS (Hons)","Computer Science","Main campus",1,50.18,3.03,"2025-05-07 10:16:51",Waiting
+"Abdullah Amjad Iqbal","Amjad Iqbal",3630230530985,2024-CS-115,"BS (Hons)","Computer Science","Main campus",1,69.33,3,"2025-05-05 11:53:08",Waiting
+"Muhammad Oman Umar","Umar Draz",3630377055653,2024-CS-143,"BS (Hons)","Computer Science","Main campus",1,55.45,3,"2025-06-01 15:12:16",Waiting
+"Ammar Ateeq","Ateeq ur Rehman",3630277804919,2024-CS-64,"BS (Hons)","Computer Science","Main campus",1,64.25,2.96,"2025-05-19 11:26:49",Waiting
+"Sawera Fayyaz"," Fayyaz Ali",3210280743256,2024-BSCS-103,"BS (Hons)","Computer Science","Main campus",1,61.27,2.96,"2025-04-29 16:15:40",Waiting
+"Muhammad Adnan ","Muhammad Munir Ahmad ",3630221343895,2024-CS-125,"BS (Hons)","Computer Science","Main campus",1,55.66,2.96,"2025-05-12 22:00:44",Waiting
+"Ali Akram","Muhammad Akram",3220225475371,2024-IT-60,"BS (Hons)","Computer Science","Main campus",1,54.66,2.95,"2025-05-04 11:00:51",Waiting
+"Neha Ameen","Muhammad Ameen",3630213865349,2024-IT-75,"BS (Hons)","Computer Science","Main campus",1,59.83,2.93,"2025-05-07 07:37:35",Waiting
+"Muhammad Khuram Sultan","Zafar Hussain Tahir",3630252597521,2024-CS-163,"BS (Hons)","Computer Science","Main campus",1,56.25,2.9,"2025-06-01 15:02:47",Waiting
+"Hafiz Muhammad Nabeel","Muhammad Ashraf ",3520217296223,2024-CS-04,"BS (Hons)","Computer Science","Main campus",1,58.58,2.75,"2025-05-17 22:14:09","Not Selected",0
+"Muhammad Faisal","Muhammad Zaman",3630399766971,2024-CS-78,"BS (Hons)","Computer Science","Main campus",1,71.91,2.18,"2025-05-07 19:45:36","Not Selected",0
+"rimsha nazir","malik nazir ahmad",3630350404126,2023-CS-22,"BS (Hons)","Computer Science","Main campus",2,72.27,3.8,"2025-05-06 21:38:33",Selected,"1 out of 10"
+"Muhammad Husnain","Iftikhar Ahmad Qureshi",3630228447291,2023-CS-144,"BS (Hons)","Computer Science","Main campus",2,68.18,3.79,"2025-05-07 12:36:37",Selected,"2 out of 10"
+"Laiba Hamid","Hamid Mahmood",3630245850328,2023-CS-15,"BS (Hons)","Computer Science","Main campus",2,94.36,3.76,"2025-05-06 08:54:26",Selected,"3 out of 10"
+"Muhammad Salman","Muhammad Yameen",3220351347769,2023-IT-55,"BS (Hons)","Computer Science","Main campus",2,81.09,3.76,"2025-05-06 13:31:53",Selected,"4 out of 10"
+"Mehak Asghar","Muhammad Asghar",3230489351168,2023-IT-06,"BS (Hons)","Computer Science","Main campus",2,64.91,3.73,"2025-05-01 17:47:16",Selected,"5 out of 10"
+"Ubaid ur Rehman","Muhammad Alam",3230384979789,2023-CS-49,"BS (Hons)","Computer Science","Main campus",2,83,3.725,"2025-05-02 19:20:37",Selected,"6 out of 10"
+"Nimra Fareed","Ghulam Fareed",3630289041034,2023-CS-27,"BS (Hons)","Computer Science","Main campus",2,88,3.709,"2025-05-27 15:56:32",Selected,"7 out of 10"
+"Manahil Raees","Raees Ahmed",3630256850004,2023-CS-10,"BS (Hons)","Computer Science","Main campus",2,76.36,3.7,"2025-05-03 21:59:59",Selected,"8 out of 10"
+"Abdullah Asghar ","Muhammad Asghar",3630260051759,2023-CS-168,"BS (Hons)","Computer Science","Main campus",2,73.54,3.62,"2025-04-29 19:26:29",Selected,"9 out of 10"
+"Muhammad Abdullah Khalid","Muhammad Khalid",3630227867527,2023-CS-170,"BS (Hons)","Computer Science","Main campus",2,69,3.6,"2025-05-01 18:47:45",Selected,"10 out of 10"
+"Talha Qayyum","Rana Abdul Qayyum",3230326867127,2023-CS-61,"BS (Hons)","Computer Science","Main campus",2,85,3.58,"2025-05-04 12:04:48",Waiting
+"Younis Riaz","Riaz Ahmad",3630356844033,2023-CS-125,"BS (Hons)","Computer Science","Main campus",2,56.9,3.58,"2025-05-05 14:28:37",Waiting
+"Ali Raza","Ghazanfar Abbas",3630290875793,2023-IT-65,"BS (Hons)","Computer Science","Main campus",2,83.81,3.54,"2025-04-29 09:55:13",Waiting
+"Aqib Razzaq","Muhammad Razzaq ",3630385021995,2023-CS-140,"BS (Hons)","Computer Science","Main campus",2,66.72,3.52,"2025-05-19 23:24:15",Waiting
+"Muskan Rana","Muskan Rana",3630272378262,2023-CS-04,"BS (Hons)","Computer Science","Main campus",2,74.73,3.51,"2025-05-03 23:04:22",Waiting
+"Fatima Batool","Muhammad Ilyas Qamar",3530237600254,2023-CS-06,"BS (Hons)","Computer Science","Main campus",2,82.63,3.465,"2025-05-15 23:57:09",Waiting
+"Muneeb ur Rehman","Tariq Ismail",3630207831311,2023-CS-55,"BS (Hons)","Computer Science","Main campus",2,85.54,3.46,"2025-05-02 20:00:05",Waiting
+"Hamid Ali","Ahmad Nawaz",3320404917157,2023-CS-130,"BS (Hons)","Computer Science","Main campus",2,66.45,3.46,"2025-05-07 17:31:51",Waiting
+"Muhammad Junaid","Muhammad Javeed Khan",3230492344861,2023-IT-39,"BS (Hons)","Computer Science","Main campus",2,71.27,3.44,"2025-04-29 07:12:22",Waiting
+"saira Aziz","Aziz Ahmad",3630413696448,2023-CS-16,"BS (Hons)","Computer Science","Main campus",2,71.27,3.44,"2025-05-06 11:55:11",Waiting
+"Abdul Moiz","Muhammad Javed Akhtar",3630281702159,2023-IT-47,"BS (Hons)","Computer Science","Main campus",2,68.27,3.44,"2025-05-05 10:49:47",Waiting
+"Asher Kashif","Kashif Ghaffar",3610395066493,2023-CS-154,"BS (Hons)","Computer Science","Main campus",2,64.27,3.43,"2025-05-03 09:09:43",Waiting
+Alisha,Sharafat,3630290855468,2023-CS-103,"BS (Hons)","Computer Science","Main campus",2,71.45,3.41,"2025-05-07 19:33:21",Waiting
+"Husnain Saleem","Saleem Nayyer",3630217599409,2023-IT-20,"BS (Hons)","Computer Science","Main campus",2,56.63,3.41,"2025-05-07 00:45:05",Waiting
+"Gulshan Yaseen","Muhammad Yaseen",3660290641308,2023-CS-106,"BS (Hons)","Computer Science","Main campus",2,69.18,3.4,"2025-05-06 11:41:44",Waiting
+"MUHAMMAD HASEEB ANJUM KHAN","ANJUM RAFIQUE KHAN",3610358537621,2023-IT-46,"BS (Hons)","Computer Science","Main campus",2,66.63,3.4,"2025-05-04 00:56:57",Waiting
+"Muhammad Haris Javed","Javed Iqbal Khan",3630236848223,2023-IT-66,"BS (Hons)","Computer Science","Main campus",2,84.45,3.39,"2025-05-11 10:44:27",Waiting
+"Maroof Afzal","Muhammad Afzal",3630253671881,2023-CS-127,"BS (Hons)","Computer Science","Main campus",2,63.9,3.39,"2025-05-04 16:29:35",Waiting
+"Muhammad Usman","Muhammad Shabbir",3630223317847,2023-CS-172,"BS (Hons)","Computer Science","Main campus",2,99.45,3.38,"2025-05-18 09:04:18",Waiting
+Abdullah,"Muhammad Ibrahim ",3630242055819,2023-IT-63,"BS (Hons)","Computer Science","Main campus",2,65.72,3.33,"2025-05-17 20:05:16",Waiting
+"Muhammad Asad","Zafar Ahmad",3630222033371,2023-CS-137,"BS (Hons)","Computer Science","Main campus",2,81,3.31,"2025-05-12 18:46:14",Waiting
+"Muhammad Waseem","Muneer Ahmad",3230477329531,2023-CS-33,"BS (Hons)","Computer Science","Main campus",2,74.9,3.302,"2025-05-10 15:57:57",Waiting
+Shahzaib,"Mumtaz Hussian",3630221189449,2023-cs-158,"BS (Hons)","Computer Science","Main campus",2,61.5,3.3,"2025-05-18 08:20:21",Waiting
+"Bushra Saleem","Muhammad Saleem Akhtar",3630439346404,2023-CS-23,"BS (Hons)","Computer Science","Main campus",2,54.18,3.3,"2025-05-29 20:21:06",Waiting
+"Abdur Rub ","Qaiser Munawar",3630297752161,2023-CS-129,"BS (Hons)","Computer Science","Main campus",2,52.9,3.3,"2025-04-29 06:49:59",Waiting
+"Muhammad Ahmad","Muhammad Ishaq",3230314364179,"2023-CS -57","BS (Hons)","Computer Science","Main campus",2,72.18,3.298,"2025-05-26 12:32:58",Waiting
+"Aashir Mudassir","Amir Mudassir",3630252837291,2023-IT-74,"BS (Hons)","Computer Science","Main campus",2,53.81,3.28,"2025-05-05 19:05:20",Waiting
+"Azka Shahzad","Shahzad Zulfiqar",3630207339566,2023_CS_19,"BS (Hons)","Computer Science","Main campus",2,81.72,3.27,"2025-05-08 16:47:03",Waiting
+"Muntazer Mahdi","Shakir Hussain",3230481469689,2023-CS-72,"BS (Hons)","Computer Science","Main campus",2,69.72,3.27,"2025-05-03 11:57:21",Waiting
+"Muhammad Tayyub","Muhammad Shahid Javed",3630211943253,2023-CS-139,"BS (Hons)","Computer Science","Main campus",2,52.36,3.27,"2025-05-03 01:24:19",Waiting
+"Waseem Abbas ","Kareem Bukhsh",3220345132445,2023-IT-45,"BS (Hons)","Computer Science","Main campus",2,67.81,3.26,"2025-05-17 16:39:34",Waiting
+"Hafiz Abdul Mannan","Kashif Ali",3630341831437," 116- CS- 2023","BS (Hons)","Computer Science","Main campus",2,78,3.25,"2025-05-17 18:51:41",Waiting
+"Muhammad Zohaib Akhtar","Muhammad Shoaib",3210356440175,2023-IT-72,"BS (Hons)","Computer Science","Main campus",2,66.18,3.25,"2025-05-16 01:23:13",Waiting
+"Mahad Elahi","Muhammad Ramzan",3630291005137,2023-IT-09,"BS (Hons)","Computer Science","Main campus",2,57.72,3.25,"2025-05-19 12:32:10",Waiting
+"Mubashir Ramzan","Muhammad Ramzan",3630163275611,2023-CS-47,"BS (Hons)","Computer Science","Main campus",2,82.63,3.24,"2025-05-03 11:56:22",Waiting
+"Muhammad Noor Hassan Ibne Qasim ","Muhammad Qasim ",3630131896323,2023-IT-61,"BS (Hons)","Computer Science","Main campus",2,69.81,3.24,"2025-04-27 15:53:49",Waiting
+"Abdullah Bin Amir","Amir Shahzad Qureshi",3630288056715,2023-CS-151,"BS (Hons)","Computer Science","Main campus",2,68.72,3.23,"2025-05-04 14:40:15",Waiting
+"Muhammad Usman","Abid Hussain",3230412933213,2023-CS-164,"BS (Hons)","Computer Science","Main campus",2,65.18,3.22,"2025-05-04 06:05:51",Waiting
+"Muhammad Mohsin","Muhammad Habib",3610442620211,2023-IT-73,"BS (Hons)","Computer Science","Main campus",2,64.63,3.21,"2025-05-10 13:19:04",Waiting
+"Memoona Khan","Hassan Raza",3630234743878,2023-CS-104,"BS (Hons)","Computer Science","Main campus",2,63.27,3.2,"2025-05-01 15:48:10",Waiting
+"Syed Abdul Basit Bukhari ","Syed Raheel Hussain",3630239969455,2023-CS-152,"BS (Hons)","Computer Science","Main campus",2,57.09,3.2,"2025-05-17 21:56:30",Waiting
+"Hafiz Muhammad Ahsan Khan ","Muhammad Abdul Rouf Khan ",3230490794585,2023-CS-156,"BS (Hons)","Computer Science","Main campus",2,64.72,3.19,"2025-05-04 14:53:10",Waiting
+"Muhammad Faisal ","Ghulam Ali Zahid ",3630166332715,2023-IT-32,"BS (Hons)","Computer Science","Main campus",2,60.09,3.19,"2025-04-29 08:48:58",Waiting
+"Muhammad Zain Ahmad","Maqsood Ahmad",3630237809567,2023-BT-SE-06,"BS (Hons)","Computer Science","Main campus",2,50.45,3.184,"2025-05-07 21:54:00",Waiting
+ANEELA,"MUHAMMAD NAZIR",3630213483848,2023-IT-04,"BS (Hons)","Computer Science","Main campus",2,66,3.18,"2025-05-01 15:24:19",Waiting
+"Muhammad Abdullah Zubair","Muhammad Zubair Azam",3630388428855,2023-CS-175,"BS (Hons)","Computer Science","Main campus",2,61.09,3.17,"2025-05-05 18:42:11",Waiting
+"Hafiz Muhammad Hasnian Saif","Saif Ullah",3210203249591,2023-IT-50,"BS (Hons)","Computer Science","Main campus",2,77.36,3.16,"2025-05-06 11:53:54",Waiting
+"Muhammad Talha Munir","Munir Khalid",3610282171049,2023-IT-31,"BS (Hons)","Computer Science","Main campus",2,50.45,3.16,"2025-05-02 16:14:35",Waiting
+"Alishba Saleem","Muhammad Saleem",3630202840906,2023-IT-05,"BS (Hons)","Computer Science","Main campus",2,48.63,3.15,"2025-05-05 16:57:57",Waiting
+"Mudassar Hussain","Muhammad Afzal",3610293870971,2023-CS-163,"BS (Hons)","Computer Science","Main campus",2,76.27,3.12,"2025-05-11 20:21:48",Waiting
+"Abdul Hannan Anwar","Muhammad Anwar",3620129723935,2023-CS-25,"BS (Hons)","Computer Science","Main campus",2,71.54,3.12,"2025-05-06 19:27:19",Waiting
+"Mursil Mateen","Abdul Mateen",4240125140343,2023-IT-14,"BS (Hons)","Computer Science","Main campus",2,69.72,3.12,"2025-05-05 18:50:41",Waiting
+"Ali Raza ","Muhammad Hussain ",3610242241663,2023-CS-167,"BS (Hons)","Computer Science","Main campus",2,55.55,3.11,"2025-05-04 15:09:02",Waiting
+"Muhammad Aqeel Sabir","Sabir ali",4250133424011,2024-CS-37,"BS (Hons)","Computer Science","Main campus",2,67.9,3.1,"2025-05-17 16:14:08",Waiting
+"Muhammad Nouman Yousaf ","Muhammad Yousaf ",3230415019345,2023-CS-36,"BS (Hons)","Computer Science","Main campus",2,61.8,3.1,"2025-05-08 12:27:54",Waiting
+"Waris Raheem","Javed Ahmad Akhtar",3630217787499,2023-CS-135,"BS (Hons)","Computer Science","Main campus",2,52.9,3.1,"2025-05-05 15:01:56",Waiting
+"Ume Rooman Touqeer ","Abdullah Touqeer Ahmad ",3230433932570,2023-CS-13,"BS (Hons)","Computer Science","Main campus",2,63.36,3.098,"2025-05-15 10:43:00",Waiting
+"Sana Jahangir","Jahangir Ahmad",3630213229928,2023-CS-21,"BS (Hons)","Computer Science","Main campus",2,68.45,3.09,"2025-05-15 14:51:13",Waiting
+"Muhammad Yousaf","Zahoor Ahmad",3660289503083,2023-CS-63,"BS (Hons)","Computer Science","Main campus",2,85.63,3.04,"2025-05-22 01:55:18",Waiting
+"Muhammad Kamran","Fida Hussain",3230456246909,2023-CS-41,"BS (Hons)","Computer Science","Main campus",2,72,3.04,"2025-05-31 17:21:22",Waiting
+"Muhammad Umar Shehzad","Shehzad Gul",3630220950949,2023-CS-178,"BS (Hons)","Computer Science","Main campus",2,56.18,3.04,"2025-05-03 15:26:58",Waiting
+"Muhammad Nadeem","Muhammad Nadeem",3230440077477,2023-IT-75,"BS (Hons)","Computer Science","Main campus",2,93,3.03,"2025-05-24 10:23:49",Waiting
+"Muhammad Zain Arif","Muhammad Arif",3320405189367,2023-CS-115,"BS (Hons)","Computer Science","Main campus",2,65.9,3.02,"2025-05-06 19:50:24",Waiting
+"Muhammad Saad","Muhammad Yousaf ",3610299331985,2023-BSCS-77,"BS (Hons)","Computer Science","Main campus",2,63.9,3.007,"2025-05-02 20:57:09",Waiting
+"Rahma Noor","Rahma Noor",3230419512308,2023-IT-01,"BS (Hons)","Computer Science","Main campus",2,66.54,3,"2025-05-06 09:52:39",Waiting
+"Hafiz Muhammad Yousuf","Imtiaz Ahmad",3210397531545,2023-CS-181,"BS (Hons)","Computer Science","Main campus",2,61.36,2.99,"2025-05-06 19:36:23",Waiting
+"Muhammad Noman Aslam ","Muhammad Aslam",3630362094857,2023-IT-44,"BS (Hons)","Computer Science","Main campus",2,58,2.99,"2025-05-14 10:22:14",Waiting
+"Muhammad Usama","Faiz Bakhsh",3230388147231,2023-IT-70,"BS (Hons)","Computer Science","Main campus",2,54,2.99,"2025-05-06 12:15:19",Waiting
+"Mavedat Ali","Mazhar Abbas ",3230437762343,2023-CS-68,"BS (Hons)","Computer Science","Main campus",2,62.27,2.98,"2025-05-04 15:10:30",Waiting
+"Muhammad Mumtaz","Malik Mazhar Abbas",3630321425477,2023-CS-81,"BS (Hons)","Computer Science","Main campus",2,77.52,2.97,"2025-05-23 14:05:42",Waiting
+"Faria Shahid","Kamran Shahid",3630295064432,2023-CS-105,"BS (Hons)","Computer Science","Main campus",2,73.81,2.97,"2025-05-04 16:27:22",Waiting
+"Muhammad Hameed","Muhammad Bakir Khan",3630418034479,2023-CS-159,"BS (Hons)","Computer Science","Main campus",2,64.27,2.96,"2025-05-06 19:00:01",Waiting
+"Asma Amir","Amir bashir",3630252541832,2023-CS-11,"BS (Hons)","Computer Science","Main campus",2,67.72,2.935,"2025-05-19 20:50:53",Waiting
+"Maryam Fakhar","Fakhar Zaman ",3130362850888,2023-CS-09,"BS (Hons)","Computer Science","Main campus",2,69.8,2.93,"2025-05-20 14:09:23",Waiting
+"Muhammad zaman","Fiaz Hussain",3630210885583,2023-IT-78,"BS (Hons)","Computer Science","Main campus",2,55.09,2.93,"2025-05-18 02:13:39",Waiting
+"Ali Azan","Muhammad tauseef ahmad",3301554278719,2023-CS-142,"BS (Hons)","Computer Science","Main campus",2,70,2.911,"2025-05-17 15:47:58",Waiting
+"Ali Ahmad","Riaz Hussain",3630324743277,2023-IT-12,"BS (Hons)","Computer Science","Main campus",2,63.72,2.91,"2025-05-18 15:30:58",Waiting
+"Muhammad Daud Marij ","Muhammad Majid Qureshi ",3630297737563,2023-CS-112,"BS (Hons)","Computer Science","Main campus",2,54.09,2.91,"2025-05-15 10:31:34",Waiting
+"Muhammad Ubaid ur Rehman ","Muhammad Ramzan ",3230426870985,2023-CS-69,"BS (Hons)","Computer Science","Main campus",2,73.81,2.909,"2025-05-12 09:03:04",Waiting
+"Muhammad Zarneel ","Muhammad Javaid",3630250838049,"2023-CS-131 ","BS (Hons)","Computer Science","Main campus",2,54.27,2.9,"2025-05-05 15:40:05",Waiting
+"SOBAN UR REHMAN","ATTA ULLAH KHAN Zakhme",3230420707423,2023-CS-67,"BS (Hons)","Computer Science","Main campus",2,65.72,2.889,"2025-05-26 12:24:38",Waiting
+"Muhammad Abubakar","Shabbir Ahmad",3630274921369,2023-CS-136,"BS (Hons)","Computer Science","Main campus",2,58,2.88,"2025-05-03 18:36:08",Waiting
+"Saqlain Murtaza","Ghulam Murtaza",3230353052185,2023-CS-79,"BS (Hons)","Computer Science","Main campus",2,73.09,2.87,"2025-05-12 08:51:48",Waiting
+"Imtiaz Hussain","Muhammad Hussain",3230421127621,"2024-Bscs 133","BS (Hons)","Computer Science","Main campus",2,64.08,2.869,"2025-05-30 20:34:56",Waiting
+"Muteeb Bashir ","Bashir Ahmad ",3230412958447,2023-CS-177,"BS (Hons)","Computer Science","Main campus",2,61.09,2.85,"2025-05-04 14:55:53",Waiting
+"Adil Siddiq Ashrafi","Muhammad Siddiq",3610474223643,2023-CS-174,"BS (Hons)","Computer Science","Main campus",2,56,2.838,"2025-05-31 21:09:03",Waiting
+"Muhammad Arshad","Ghulam Muhammad",3630382673311,2023-CS-56,"BS (Hons)","Computer Science","Main campus",2,78.36,2.83,"2025-05-14 19:19:54",Waiting
+"Ahsan Ali","Muhammad Alam ",3630298174375,2023-CS-121,"BS (Hons)","Computer Science","Main campus",2,64.18,2.83,"2025-05-05 15:37:51",Waiting
+"Muhammad Ismail","Taufeeq Ahmad",3630445838251,2023-CS-124,"BS (Hons)","Computer Science","Main campus",2,49,2.827,"2025-05-06 22:27:57",Waiting
+"Uswa Farooq","Farooq Ahmad Malik",3620120364428,2023-CS-20,"BS (Hons)","Computer Science","Main campus",2,60.18,2.815,"2025-05-18 09:02:38",Waiting
+"Muhammad Zubair Qasim","Qasim Ali",3230374852547,2023_cs_113,"BS (Hons)","Computer Science","Main campus",2,83.66,2.765,"2025-05-07 08:43:17","Not Selected",0
+"Rana Muhammad Waqar","Rana Muhammad Waqar",3610209238799,2023-CS-173,"BS (Hons)","Computer Science","Main campus",2,70,2.756,"2025-05-06 13:31:16","Not Selected",0
+"Mudassir Ali","Muhammad Safdar",3230417541319,2023-CS-65,"BS (Hons)","Computer Science","Main campus",2,57.72,2.62,"2025-05-23 14:12:25","Not Selected",0
+"Ahmad Latif","Muhammad Khalil Fakhri",3610427906705,2023-IT-28,"BS (Hons)","Computer Science","Main campus",2,49,2.609,"2025-05-25 05:54:45","Not Selected",0
+"Muhammad Ali Bahadur ","Muhammad Aamer Shahzad ",3630259978347,"2023-CS-148 ","BS (Hons)","Computer Science","Main campus",2,88.18,2.591,"2025-05-17 00:50:08","Not Selected",0
+"Ali Usman ","Muhammad Khawar Hameed",3630371299477,2023-CS-110,"BS (Hons)","Computer Science","Main campus",2,55.16,2.58,"2025-05-20 23:22:21","Not Selected",0
+"Zahra Arshad","Muhammad Arshad",3630268770358,2023-CS-17,"BS (Hons)","Computer Science","Main campus",2,59.72,2.029,"2025-05-12 19:45:20","Not Selected",0
+"Muhammad Saqlain Shoukat ","Shoukat Hussain ",3630372747617,2022-CS-105,"BS (Hons)","Computer Science","Main campus",3,67,3.88,"2025-05-30 22:10:12",Selected,"1 out of 10"
+"Sami Ullah","Mubarak Ali",3330404356783,2022-CS-43,"BS (Hons)","Computer Science","Main campus",3,63.54,3.53,"2025-05-16 01:21:43",Selected,"2 out of 10"
+"Laiba Saleem","Saleem Qaisar",3610284900810,2022-CS-07,"BS (Hons)","Computer Science","Main campus",3,80.57,3.45,"2025-05-03 12:55:48",Selected,"3 out of 10"
+"Muhammad Ali Shan Aslam","Muhammad Aslam",3510156209511,2022-CS-27,"BS (Hons)","Computer Science","Main campus",3,69.09,3.39,"2025-05-16 02:00:26",Selected,"4 out of 10"
+"Muhammad Naeem","Sher Muhammad ",3630236129815,2022-CS-34,"BS (Hons)","Computer Science","Main campus",3,66.91,3.35,"2025-05-14 10:47:12",Selected,"5 out of 10"
+"Alishba Arbab Khan","Muhammad Jhanzaib Arbab Khan",3630243984908,2022-CS-16,"BS (Hons)","Computer Science","Main campus",3,69,3.305,"2025-05-12 23:45:00",Selected,"6 out of 10"
+"Moazzam qayyum","Abdul qayyum",3630370813861,2022-CS-10,"BS (Hons)","Computer Science","Main campus",3,80.09,3.28,"2025-05-26 11:19:07",Selected,"7 out of 10"
+"Saad Ali Hamid","Hamid Qayyum",3820167553625,2022-CS-28,"BS (Hons)","Computer Science","Main campus",3,78,3.27,"2025-05-17 17:19:38",Selected,"8 out of 10"
+"Muhammad Umar","Muhammad Saleem Bhatti",3630228064513,2022-CS-42,"BS (Hons)","Computer Science","Main campus",3,55.45,3.19,"2025-05-12 20:05:58",Selected,"9 out of 10"
+"Shaheer E Umer","Muhammad Saleem ",3230440261821,2022-CS-58,"BS (Hons)","Computer Science","Main campus",3,83.9,3.17,"2025-05-16 11:02:45",Selected,"10 out of 10"
+"usman hussain","kalu khan",3230331221847,2022-CS-46,"BS (Hons)","Computer Science","Main campus",3,68,3.17,"2025-05-26 16:34:37",Waiting
+"Ahtasham Shahid","Shahid Hussain",3610155238027,2022-CS-104,"BS (Hons)","Computer Science","Main campus",3,52,3.1,"2025-05-22 14:55:30",Waiting
+"Abdullah Nadeem","Nadeem Ahmad",3230376366813,2022-CS-31,"BS (Hons)","Computer Science","Main campus",3,71,3.08,"2025-05-30 09:19:27",Waiting
+"Muhammad Mohsin fiaz","Fiaz Hussain",3230361232229,2022-CS-03,"BS (Hons)","Computer Science","Main campus",3,64,3.03,"2025-05-29 21:06:30",Waiting
+"Muhammad Amjad","Riaz Ahmed",3610363387003,2022-CS-36,"BS (Hons)","Computer Science","Main campus",3,57.9,3.03,"2025-05-05 07:13:25",Waiting
+"Muhammad Adnan Akbar ","Muhammad Akbar",3630488959637,2022-CS-20,"BS (Hons)","Computer Science","Main campus",3,57,3.03,"2025-05-14 01:14:40",Waiting
+"Umair Arshad","Muhammad Arshad",3330404336819,2022-CS-44,"BS (Hons)","Computer Science","Main campus",3,56.63,3.02,"2025-05-16 01:49:43",Waiting
+"Muhammad Ahmad khan","Najam U Saqib Qawee Khan",3130268728217,2022-CS-18,"BS (Hons)","Computer Science","Main campus",3,52.2,2.95,"2025-05-15 18:54:31",Waiting
+"Alishba Sadiq","Muhammad Sadiq",3630246230584,2022-CS-13,"BS (Hons)","Computer Science","Main campus",3,74.75,2.9,"2025-05-20 00:26:37",Waiting
+"Asad ali","Malik zahoor ahmad awan",3620145195351,2022-CS-64,"BS (Hons)","Computer Science","Main campus",3,51,2.83,"2025-05-14 07:57:35",Waiting
+"Muhammad Suleman Mazhar","Mazhar Hussain",3630399312567,2024-CS-27,B.Tech,"Computer Science","Main campus",1,87.1,3.32,"2025-05-14 10:35:58",Selected,"1 out of 1"
+"Shahzaib farid khan ","Muhammad Akbar khan ",3630275386223,2024IT35,B.Tech,"Computer Science","Main campus",1,68.63,3.29,"2025-04-29 10:53:31",Waiting
+"Abdul Hannan ","Shafiq Ahmad ",3630370992131,BsIT57,B.Tech,"Computer Science","Main campus",1,75.57,3.06,"2025-04-29 11:03:59",Waiting
+"Moosa Razzaq","Abdul Razzaq",6110181882423,"2024 IT 73",B.Tech,"Computer Science","Main campus",1,50.6,3.06,"2025-04-29 10:42:30",Waiting
+"Kashaf Abdul Jabar","Abdul Jabar",3630351381236,2024-CS-02,B.Tech,"Computer Science","Main campus",1,65.5,3,"2025-05-31 17:28:18",Waiting
+"Syed Ibrahim Ali Bukhari","Syed Ibrahim Ali Bukhari",4200055475799,2024-CS-20,B.Tech,"Computer Science","Main campus",1,62.25,2.94,"2025-05-24 00:10:32",Waiting
+Rameen,"Khurram shehzad",9040301907572,2024-BT-SE-24,B.Tech,"Computer Science","Main campus",1,76.6,0,"2025-05-19 22:23:22","Not Selected",0
+"Muhammad Zain","Muhammad Munawar",3230152627311,2023-BT-SE-05,B.Tech,"Computer Science","Main campus",2,77.81,3.86,"2025-05-05 16:45:54",Selected,"1 out of 1"
+"Ahsan khan","Muzaffar Abbas ",3630248528283,2023-BT-SE-07,B.Tech,"Computer Science","Main campus",2,77,3.639,"2025-05-04 18:29:07",Waiting
+"Muhammad Hassan Aziz ","Muhammad Ayaz",3610367359595,2023-BT-SE-01,B.Tech,"Computer Science","Main campus",2,78,3.559,"2025-05-05 16:38:05",Waiting
+"Hamza Nawaz",Shahnawaz,3630374531023,2023-BT-SE-03,B.Tech,"Computer Science","Main campus",2,80.27,3.55,"2025-05-06 14:40:28",Waiting
+"Aamir Irshad ","Irshad Ahmad",3620209082617,2023-BT-SE-13,B.Tech,"Computer Science","Main campus",2,70.18,3.52,"2025-05-06 15:45:44",Waiting
+"Abdus saboor khan","Ayub khan",3240343944253,2023-CS-66,B.Tech,"Computer Science","Main campus",2,80.27,3.5,"2025-05-09 14:46:03",Waiting
+"Abdullah Ahzam Farhan","Farhan Younas ",3630273563441,2023-BT-SE-04,B.Tech,"Computer Science","Main campus",2,62.72,3.476,"2025-05-06 15:23:14",Waiting
+"Muhammad Shoaib","Ghulam Yaseen",3230401444457,2023-BT-SE-10,B.Tech,"Computer Science","Main campus",2,64,3.46,"2025-05-12 17:06:31",Waiting
+"Shoaib Riaz","Riaz Hussain",3230450780529,2023-BT-SE-02,B.Tech,"Computer Science","Main campus",2,67.27,3.31,"2025-05-06 15:29:34",Waiting
+"Muhammad Ryan ","Bakhtawar kham",3630275669659,23-cs-114,B.Tech,"Computer Science","Main campus",2,50.5,3.2,"2025-05-09 15:26:05",Waiting
+"Mueen ul din Hassan ","Allama Muhammad Abdul Ghafoor Mansoor ",3630251080445,2023-BT-SE-15,B.Tech,"Computer Science","Main campus",2,63.5,3.18,"2025-05-19 16:29:01",Waiting
+"Bazan Ashraf","Muhammad Ashraf Anjum",3630228893185,2023-BT-SE-08,B.Tech,"Computer Science","Main campus",2,59.09,3.137,"2025-05-13 16:40:15",Waiting
+"Mujeeb Ur Rehman","Muhammad Ibrahim ",3630355827411,2023-CS-35,B.Tech,"Computer Science","Main campus",2,56.54,2.898,"2025-05-30 18:12:43",Waiting
